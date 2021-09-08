@@ -1,3 +1,12 @@
+/**
+* Camila Gois de Jesus
+* Emanuel Oliveira Salvador Souza
+* Nathan James Arrais Vasconcelos
+* Faculdade Área1
+* Computação Gráfica
+* Atividade avaliativa 1
+*/
+
 package br.com.pdi.vision;
 
 import java.awt.Color;
@@ -27,7 +36,7 @@ public class BasicThreshold {
 				green = pixel.getGreen();
 				blue = pixel.getBlue();
 				
-				/* Composi��o da cor laranja tende a ser: rgb(255,165,0), fazendo testes com o threshold 
+				/* Composição da cor laranja tende a ser: rgb(255,165,0), fazendo testes com o threshold 
 				 * acabei chegando na formula abaixo.
 				 */
 				
