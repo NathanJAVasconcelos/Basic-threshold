@@ -1,3 +1,12 @@
+/**
+* Camila Gois de Jesus
+* Emanuel Oliveira Salvador Souza
+* Nathan James Arrais Vasconcelos
+* Faculdade Área1
+* Computação Gráfica
+* Atividade avaliativa 1
+*/
+
 package br.com.pdi.vision;
 
 import java.awt.Color;
